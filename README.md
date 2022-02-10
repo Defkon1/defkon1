@@ -28,7 +28,7 @@
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=defkon1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defkon1&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defkon1&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
