@@ -26,11 +26,7 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
   <img src="https://komarev.com/ghpvc/?username=defkon1&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=defkon1)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defkon1&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=defkon1&show_icons=true)
-
-### :writing_hand: Blog Posts :
+### My Posts :
 <!-- BLOG-POST-LIST:START -->
 - [BulkRead – S01x07](https://www.alessiomarinelli.it/2021/09/bulkread-s01x07/)
 - [BulkRead – S01x06](https://www.alessiomarinelli.it/2021/09/bulkread-s01x06/)
@@ -38,3 +34,8 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
 - [Eventi informatici Settembre 2021](https://www.alessiomarinelli.it/2021/08/eventi-informatici-settembre-2021/)
 - [BulkRead – S01x04](https://www.alessiomarinelli.it/2021/08/bulkread-s01x04/)
 <!-- BLOG-POST-LIST:END -->
+
+### Github stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=defkon1)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=defkon1&show_icons=true)
