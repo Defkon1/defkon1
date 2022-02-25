@@ -21,11 +21,11 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
 
 ### My Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Arrivata la t-shirt Hacktoberfest 2021!](https://www.alessiomarinelli.it/2022/02/t-shirt-hacktoberfest-2021/)
 - [BulkRead – S01x07](https://www.alessiomarinelli.it/2021/09/bulkread-s01x07/)
 - [BulkRead – S01x06](https://www.alessiomarinelli.it/2021/09/bulkread-s01x06/)
 - [BulkRead – S01x05](https://www.alessiomarinelli.it/2021/09/bulkread-s01x05/)
 - [Eventi informatici Settembre 2021](https://www.alessiomarinelli.it/2021/08/eventi-informatici-settembre-2021/)
-- [BulkRead – S01x04](https://www.alessiomarinelli.it/2021/08/bulkread-s01x04/)
 <!-- BLOG-POST-LIST:END -->
 
 
