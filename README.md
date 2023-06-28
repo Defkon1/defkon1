@@ -21,11 +21,11 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
 
 ### My Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Tagliare un MP3 da riga di comando](https://www.alessiomarinelli.it/2023/06/tagliare-un-mp3-da-riga-di-comando/)
 - [Italian Toolkit – developizza e maindolino](https://www.alessiomarinelli.it/2023/05/italian-toolkit-developizza-e-maindolino/)
 - [Nuovo anno, nuova t-shirt Hacktoberfest!](https://www.alessiomarinelli.it/2023/01/nuovo-anno-nuova-t-shirt-hacktoberfest/)
 - [Arrivata la t-shirt Hacktoberfest 2021!](https://www.alessiomarinelli.it/2022/02/t-shirt-hacktoberfest-2021/)
 - [BulkRead – S01x07](https://www.alessiomarinelli.it/2021/09/bulkread-s01x07/)
-- [BulkRead – S01x06](https://www.alessiomarinelli.it/2021/09/bulkread-s01x06/)
 <!-- BLOG-POST-LIST:END -->
 
 
