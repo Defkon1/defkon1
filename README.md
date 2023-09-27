@@ -43,3 +43,5 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
   </a>
 </div>
 
+[![An image of @defkon1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/defkon1)](https://holopin.io/@defkon1)
+
