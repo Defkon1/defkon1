@@ -21,11 +21,11 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
 
 ### My Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Formattare un disco con partizioni EFI con Windows](https://www.alessiomarinelli.it/2025/06/formattare-un-disco-con-partizioni-efi-con-windows/)
 - [Montare un disco Linux su Windows con WSL](https://www.alessiomarinelli.it/2025/06/montare-un-disco-linux-su-windows-con-wsl/)
 - [Docker Desktop bloccato durante passaggio a Windows container](https://www.alessiomarinelli.it/2024/10/docker-desktop-bloccato-durante-passaggio-a-windows-container/)
 - [Eseguire SQL Server in Docker](https://www.alessiomarinelli.it/2024/03/eseguire-sql-server-in-docker/)
 - [Italian Toolkit 1.2 – Riconoscimento delle targhe automobilistiche italiane](https://www.alessiomarinelli.it/2023/10/italian-toolkit-1-2-riconoscimento-delle-targhe-automobilistiche-italiane/)
-- [Eseguire processi di sistema in una Web API C#](https://www.alessiomarinelli.it/2023/10/eseguire-processi-di-sistema-in-una-web-api-c/)
 <!-- BLOG-POST-LIST:END -->
 
 
