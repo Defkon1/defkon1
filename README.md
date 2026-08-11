@@ -21,11 +21,11 @@ I am a proud member of <a href="https://dev.marche.it/">DevMarche</a>, the itali
 
 ### My Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Incompatibilità tra WordPress 7.x e il plugin Force SSL URL Scheme](https://www.alessiomarinelli.it/2026/08/incompatibilita-tra-wordpress-7-x-e-il-plugin-force-ssl-url-scheme/)
 - [Autenticazione NTLM in container Docker Linux](https://www.alessiomarinelli.it/2025/06/autenticazione-ntlm-in-container-docker-linux/)
 - [Formattare un disco con partizioni EFI con Windows](https://www.alessiomarinelli.it/2025/06/formattare-un-disco-con-partizioni-efi-con-windows/)
 - [Montare un disco Linux su Windows con WSL](https://www.alessiomarinelli.it/2025/06/montare-un-disco-linux-su-windows-con-wsl/)
 - [Docker Desktop bloccato durante passaggio a Windows container](https://www.alessiomarinelli.it/2024/10/docker-desktop-bloccato-durante-passaggio-a-windows-container/)
-- [Eseguire SQL Server in Docker](https://www.alessiomarinelli.it/2024/03/eseguire-sql-server-in-docker/)
 <!-- BLOG-POST-LIST:END -->
 
 
